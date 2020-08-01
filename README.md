@@ -5,22 +5,15 @@
 <h1 align="center">Hi 👋, I'm Lohit</h1>
 <h3 align="center">A guy who loves Android development</h3>
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thagoo" alt="thagoo" /> </p>
+<img align="left" src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='200'/>
 
 - 🌱 I’m currently learning **Programming languages, Data science, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thagoo](https://github.com/Thagoo)
 
-- 📝 I regulary write articles on [https://t.me/tboxxx](https://t.me/tboxxx)
-
-- 💬 Ask me about **Android**
-
 - 📫 How to reach me **https://thagoo.github.io**
 
 - ⚡ Fun fact **I am busy**
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,3 +25,4 @@
 <a href="https://dev.to/thagoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thagoo" height="20" width="20" /></a>
 <a href="https://medium.com/@lohitgowda56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lohitgowda56" height="20" width="20" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thagoo" alt="thagoo" /> </p>
