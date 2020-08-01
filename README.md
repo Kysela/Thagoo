@@ -2,26 +2,30 @@
 +Thago's
 -github
 ```
-<h1>Hi There..<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
+<h1 align="center">Hi 👋, I'm Thago</h1>
+<h3 align="center">A guy who loves Android development</h3>
 
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thagoo" alt="thagoo" /> </p>
 
-[![thagoo github stats](https://github-readme-stats.vercel.app/api?username=thagoo&show_icons=true&hide=["prs","issues"])](https://github.com/thago)
+- 🌱 I’m currently learning **Programming languages, Data science, etc**
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dthagoo&longCache=true)](https://github.com/thagoo)
+- 👨‍💻 All of my projects are available at [https://github.com/Thagoo](https://github.com/Thagoo)
 
+- 📝 I regulary write articles on [https://t.me/tboxxx](https://t.me/tboxxx)
 
-<!--
-**Thagoo/Thagoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **Android**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **https://thagoo.github.io**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I am busy**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thagoo&show_icons=true" alt="thagoo" /> </p>
+
+<p align="center">
+<a href="https://dev.to/thagoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thagoo" height="20" width="20" /></a>
+<a href="https://medium.com/@lohitgowda56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lohitgowda56" height="20" width="20" /></a>
+</p>
