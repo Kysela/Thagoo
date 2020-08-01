@@ -2,8 +2,10 @@
 +Thago's
 -github
 ```
-<h1 align="center">Hi 👋, I'm Thago</h1>
+<h1 align="center">Hi 👋, I'm Lohit</h1>
 <h3 align="center">A guy who loves Android development</h3>
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thagoo" alt="thagoo" /> </p>
 
@@ -18,6 +20,7 @@
 - 📫 How to reach me **https://thagoo.github.io**
 
 - ⚡ Fun fact **I am busy**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
